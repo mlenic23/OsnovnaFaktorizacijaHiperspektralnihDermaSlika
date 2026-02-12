@@ -12,14 +12,4 @@
 - Within each band, the information is stored _line by line_
 - The data type is **float**
 
-#### Important information
-
-This database only contains the dermatological images. The three brain images are already available in the following repository:
-https://hsibraindatabase.iuma.ulpgc.es/
-
-For downloading the brain images used in this research:
-- PB1C1: Op12C1
-- PB2C1: Op15C1
-- PB3C1: Op20C1
-
 
